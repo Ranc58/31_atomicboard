@@ -6,7 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
 CREATE_USER_URL = "http://atomicboard.devman.org/create_test_user/"
-JSON_TICKETS_URL = "http://atomicboard.devman.org/api/tickets/?format=json"
 JQUERY_URL = "http://code.jquery.com/jquery-1.11.2.min.js"
 TIMEOUT = 10
 
